@@ -14,6 +14,16 @@ entries:
   foo:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-12-28T11:06:28.018580102Z"
+    description: A Helm chart for Kubernetes
+    digest: f94669505b5a5a80457aea3dd373c4eb17c63a372e4a25f4f39c887d3f5bba24
+    name: foo
+    type: application
+    urls:
+    - https://github.com/sturman/helm-charts/releases/download/foo-0.1.1/foo-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-12-28T11:04:34.331547502Z"
     description: A Helm chart for Kubernetes
     digest: a90fbc0f802d6a891f847c69f32c1fa787d7ba89a3a5cd0d15e40e19a65413af
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/sturman/helm-charts/releases/download/foo-0.1.0/foo-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-28T11:05:34.729158545Z"
+generated: "2022-12-28T11:06:28.018587302Z"
